@@ -1,5 +1,7 @@
 # If you can compute it, must you compute it?
 
+![](https://hitchwiki.org/en/File:Amarillo.jpg)
+
 > *The production of too many useful things results in too many useless people.* Karl Marx. [^marx]
 
 In Cuba cars are scarce, busses are scarce, gasoline is expensive. The perfect catalysts for a public transit system. The systems that have arisen include the typical busses and taxis, but alongside of these is the *punto amarillo* [^amarillo] ride sharing system. Many of these "yellow points" have a dispatcher who is responsible for coordinating the ride sharing. At first you might think that the dispatch task could (indeed) and should (hold that thought) be "appified."
