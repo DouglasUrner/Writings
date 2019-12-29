@@ -1,6 +1,6 @@
 # If you can compute it, must you compute it?
 
-![](https://hitchwiki.org/en/File:Amarillo.jpg)
+![People waiting for rides in Cuba, two Amarillos (ride coordinators) are dressed in yellow uniforms.](https://hitchwiki.org/en/images/en/b/bf/Amarillo.jpg)
 
 > *The production of too many useful things results in too many useless people.* Karl Marx. [^marx]
 
