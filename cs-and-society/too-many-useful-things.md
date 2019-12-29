@@ -17,6 +17,12 @@ There will surely be benefits that can be assigned to replacing human amarillos 
 * It would be possible to see potential rides and riders.
 * There could be a higher level of accountability.
 
+But the outcomes would not be equivalent:
+* Work would shift -- coders and IT types would replace amarillos.
+* The punto amarillo would now be an empty place.
+* The app might not have the insight or flexibility of a human.
+* Travel would be more throughly and easily surveilled.
+
 Urban and transportation planning are never easy - the future is notoriously hard to predict and the lessons of the unintended consequences of even the most benign and well intentioned of plans should stand as a powerful argument for the application of *agile principles*.[^agile]
 
 ---
