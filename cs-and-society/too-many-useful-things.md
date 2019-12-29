@@ -27,6 +27,8 @@ But the outcomes would not be equivalent:
 
 Urban and transportation planning are never easy - the future is notoriously hard to predict and the lessons of the unintended consequences of even the most benign and well intentioned of plans should stand as a powerful argument for the application of *agile principles*.[^agile]
 
+No doubt this process is "efficient" -- but how should efficiency be measured?
+
 ---
 
 [^marx]: Marx wrote this in the mid-1800s as steam power and the industrial revolution were improving the efficiency of labor and consequently reducing the number of jobs. The industrial revolution foreshadowed the modern age of computing and artificial intelligence.
