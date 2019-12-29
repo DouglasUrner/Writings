@@ -18,7 +18,7 @@ There will surely be benefits that can be assigned to replacing human amarillos 
 * There could be a higher level of accountability.
 
 But the outcomes would not be equivalent:
-* Work would shift -- coders and IT types would replace amarillos.
+* Work would shift -- coders and IT types would replace amarillos. This point is hard to underestimate, the entry bar for the job of amarillo is probably quite low. Still the ceiling is high and there is likely much to learn, both about the process in general and about the specifics of the place and time. I imagine the job is engaging and one can grow in it. An amarillo probably has stature in the community. There is a need for a lot of amarillos.
 * The punto amarillo would now be an empty place.
 * The app might not have the insight or flexibility of a human.
 * Travel would be more throughly and easily surveilled.
