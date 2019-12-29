@@ -1,4 +1,4 @@
-# If you can compute it, must you compute it?
+# If we can compute it, must we compute it?
 
 <img src="https://hitchwiki.org/en/images/en/b/bf/Amarillo.jpg"
   alt="People waiting for rides in Cuba, two Amarillos (ride coordinators) are dressed in yellow uniforms."
@@ -6,12 +6,25 @@
 
 > *The production of too many useful things results in too many useless people.* Karl Marx.[^marx]
 
-In Cuba cars are scarce, busses are scarce, gasoline is expensive. The perfect catalysts for a public transit system. The systems that have arisen include the typical busses and taxis, but alongside of these is the *punto amarillo*[^amarillo] ride sharing system. Many of these "yellow points" have a dispatcher who is responsible for coordinating the ride sharing. At first you might think that the dispatch task could (indeed) and should (hold that thought) be "appified."
+In Cuba cars are scarce, parts are scarce, gasoline is expensive -- the perfect catalysts for a public transit system. The systems that have arisen include the typical busses and taxis, but alongside of these is the *punto amarillo*[^amarillo] ride sharing system. Many of these "yellow points" have a dispatcher who is responsible for coordinating the ride sharing. At first you might think that the dispatch task could (indeed) and should (hold that thought) be "appified."
+
+Let's assume for the moment that the infrastructure and devices are in place to make "appification" a possiblity. So we can focus on the question -- *should* the project of replacing amarillos (the ride coordinators) with an app be undertaken? Let's assume for the moment that working as an amarillo is a "good" job. That is, we assume that:
+* Amarillos earn a living wage[^living].
+* The work is reasonably safe and engaging.
+* Respect and dignity are afforded to amarillos.
+
+There will surely be benefits that can be assigned to replacing human amarillos with an app. For example:
+* It would be possible to see potential rides and riders.
+* There could be a higher level of accountability.
 
 Urban and transportation planning are never easy - the future is notoriously hard to predict and the lessons of the unintended consequences of even the most benign and well intentioned of plans should stand as a powerful argument for the application of *agile principles*.[^agile]
+
+---
 
 [^marx]: Marx wrote this in the mid-1800s as steam power and the industrial revolution were improving the efficiency of labor and consequently reducing the number of jobs. The industrial revolution foreshadowed the modern age of computing and artificial intelligence.
 
 [^amarillo]: A system of mandated ride sharing introduced during the fuel shortages of the 1990s. At designated points a person wearing a yellow uniform coordinated ridesharing.
 
 [^agile]: 
+
+[^living]: A wage that enables a person to support themselves and their dependants at a "civilized" standard -- to have the necesities, to save enough to be free from econmic stress, and to enjoy a modicum of leisure.
