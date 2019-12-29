@@ -2,7 +2,7 @@
 
 <img src="https://hitchwiki.org/en/images/en/b/bf/Amarillo.jpg"
   alt="People waiting for rides in Cuba, two Amarillos (ride coordinators) are dressed in yellow uniforms."
-  style="width: 650px; height: 525px; object-fit: cover; object-position: 120px 0px;">
+  style="width: 650px; height: 525px; object-fit: cover; object-position: 0px 0px;">
 
 > *The production of too many useful things results in too many useless people.* Karl Marx.[^marx]
 
