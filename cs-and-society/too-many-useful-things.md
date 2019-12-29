@@ -1,1 +1,1 @@
-
+The production of too many useful things results in too many useless people.
