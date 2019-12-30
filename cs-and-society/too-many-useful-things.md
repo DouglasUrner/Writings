@@ -36,6 +36,13 @@ No doubt this process is "efficient" -- but how should efficiency be measured? P
 * Lowest public transit cost.
 * Highest return for those who invest in the system.
 
+We have to consider what tasks to automate (and apply artificial intelligence to) and how we choose to apply the automation:
+* Automating tasks that are tedious and/or impossible for humans (finding primes).
+* Automating tasks that are impossible for humans (autoland systems for aircraft).
+* Augmenting human capabilities (micro surgery systems).
+
+Two examples to consider are the introduction of CNC machines to replace skilled machinists in manufacturing where the machining skill was often taken away from the shop floor and moved to designers or programmers well removed from the machines; and the move to containerizaiton in the Port of Oakland where the longshoremen learned new skills and the redundancy of longshoremen brought about by the increases of efficency was handled by attrition.
+
 ---
 
 [^marx]: Marx wrote this in the mid-1800s as steam power and the industrial revolution were improving the efficiency of labor and consequently reducing the number of jobs. The industrial revolution foreshadowed the modern age of computing and artificial intelligence.
