@@ -28,9 +28,13 @@ But the outcomes would not be equivalent:
 * The app might not have the insight or flexibility of a human.
 * Travel would be more throughly and easily surveilled.
 
-Urban and transportation planning are never easy tasks - the future is notoriously hard to predict and the lessons of the unintended consequences of even the most benign and well intentioned of plans should stand as a powerful argument for the application of *agile principles*[^agile].
+Urban and transportation planning are never easy tasks - the future is notoriously hard to predict and the lessons of the unintended consequences of even the most benign and well intentioned of plans should stand as a powerful argument for the application of *agile principles*[^agile]. Low cost experiments using existing resources -- in this case empty seats in cars -- enable measurments of demand and impacts while shortening implementation timelines and minimizing the delay in implementing changes.
 
-No doubt this process is "efficient" -- but how should efficiency be measured?
+No doubt this process is "efficient" -- but how should efficiency be measured? Put another way, what are we trying to optimize for? A number of, possibly incompatible, options present themselves:
+* Lowest immediate cost (wages and other easily assigned opperating costs).
+* Highest travel efficency (getting people where they want to go with minimal hassle).
+* Lowest public transit cost.
+* Highest return for those who invest in the system.
 
 ---
 
