@@ -40,6 +40,7 @@ We have to consider what tasks to automate (and apply artificial intelligence to
 * Automating tasks that are tedious and/or impossible for humans (finding primes).
 * Automating tasks that are impossible for humans (autoland systems for aircraft).
 * Augmenting human capabilities (micro surgery systems).
+* Eliminating jobs by automating the "low hanging fruit" (automated checkout at stores -- be it simple systems like you find in gas stations and grocery stores, or high tech systems like Amazon Go[^go].
 
 Two examples to consider are the introduction of CNC machines to replace skilled machinists in manufacturing where the machining skill was often taken away from the shop floor and moved to designers or programmers well removed from the machines; and the move to containerizaiton in the Port of Oakland where the longshoremen learned new skills and the redundancy of longshoremen brought about by the increases of efficency was handled by attrition.
 
@@ -54,3 +55,5 @@ Two examples to consider are the introduction of CNC machines to replace skilled
 [^agile]: Agile in a software development methodology that emphasizes frequent releases of (quite likely incomplete and imperfect) applications so that end users can try it out and provide feedback.
 
 [^living]: A wage that enables a person to support themselves and their dependants at a "civilized" standard -- to have the necesities, to save enough to be free from econmic stress, and to enjoy a modicum of leisure.
+
+[^go]: [Amazon Go](https://en.wikipedia.org/wiki/Amazon_Go) is a chain of cashierless convinience stores run by Amazon where a computer vision system tracks you in the store and notes your purchases (the items you take out with you).
