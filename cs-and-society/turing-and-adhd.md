@@ -13,6 +13,6 @@ ADHD and starting tasks.
 
 ---
 
-[^fomiw1]: 
+[^fomiw1]: *The Fall of Man in Wilmslow*, , 
 
 [^uninteresting]: [The Mystery of ADHD Motivation, Solved](https://www.additudemag.com/adhd-motivation-problems-getting-started-on-tough-projects/) -- the article only "solves" the mystery of the mechanism that underlies the "motivation problem", it does not solve the problem itself. Based on comment date stamps, the article appears to have been first published (posted) in the "fall 2017" issue of ADDitudes and carries a notice that it was "updated" on the 18th of June, 2019. Link retrieved 31 December, 2019.
