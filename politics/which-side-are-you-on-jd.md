@@ -4,10 +4,10 @@
 
 Will Chamberlin, on X July 2024:
 
-["Really simple, underdiscussed reason why Kamala Harris shouldn’t be President<br/>No children"](https://x.com/willchamberlain/status/1815150185300759014)
-
+["Really simple, underdiscussed reason why Kamala Harris shouldn’t be President<br/><br/>No children"](https://x.com/willchamberlain/status/1815150185300759014)
+<br/>
 ["And no, becoming a step-parent to older teenagers doesn’t count"](https://x.com/willchamberlain/status/1815150379610382598)
-
+<br/>
 ["The concerns of parents and families will always be abstract to her"](https://x.com/willchamberlain/status/1815150588901933256)
 
 [backfire]: <https://www.nytimes.com/2024/07/23/opinion/kamala-harris-jd-vance.html>
