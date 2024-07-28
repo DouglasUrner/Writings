@@ -1,8 +1,8 @@
 # Which Side Are You On JD?
 
-“a bunch of childless cat ladies who are miserable at their own lives and the choices they’ve made, and so they want to make the rest of the country miserable, too.” (JD Vance to Tucker Carlson, 2021)
+"Why is this just a normal fact of... life for the leaders of our country to be people who don't have a personal and direct stake in it via their own offspring?" (JD Vance, [quoted by Tucker Carlson, 2021](the-quote))
 
-"Why is this just a normal fact of... life for the leaders of our country to be people who don't have a personal and direct stake in it via their own offspring?" (JD Vance [quoted by Tucker Carlson, 2021](the-quote))
+“We are effectively run in this country, via the Democrats, via our corporate oligarchs, by a bunch of childless cat ladies who are miserable at their own lives and the choices they’ve made, and so they want to make the rest of the country miserable, too.” (JD Vance, [to Tucker Carlson, 2021](the-quote))
 
 On the 21st of July, 2024, Will Chamberlin, the consevative lawyer, "wartime conservative," and former DeSantis campaign staffer took to X to make a succinct and eloquent argument for the importance of DEI (aka diversity, equity, and inclusion, aka the boogeyman) efforts:
 
