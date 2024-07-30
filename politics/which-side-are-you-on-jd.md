@@ -4,6 +4,9 @@
 
 “We are effectively run in this country, via the Democrats, via our corporate oligarchs, by a bunch of childless cat ladies who are miserable at their own lives and the choices they’ve made, and so they want to make the rest of the country miserable, too.” (JD Vance, [to Tucker Carlson, 2021](the-quote))
 
+These assertions are also challenged by Vance's faith -- he is a Catholic. For milenia the Catholic church has been run by men who are (nominally) celibate and childless, does want us to believe that the leaders of his church -- and the women who have devoted their lives to it -- have no stake in the future?
+
+
 On the 21st of July, 2024, Will Chamberlin, the consevative lawyer, "wartime conservative," and former DeSantis campaign staffer took to X to make a succinct and eloquent argument for the importance of DEI (aka diversity, equity, and inclusion, aka the boogeyman) efforts:
 
 ["Really simple, underdiscussed reason why Kamala Harris shouldn’t be President<br/><br/>No children"](https://x.com/willchamberlain/status/1815150185300759014)
