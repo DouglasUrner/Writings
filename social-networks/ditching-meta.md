@@ -15,7 +15,17 @@ Democracy, even the sembalance of democracy, requires active participation -- th
 
 ## The Cost of Free
 
-If you are not paying for the service, you are the product being sold.
+*If you are not paying for it, you’re not the customer; you’re the product being sold.* -- blue_beetle (aka Andrew Lewis), 2010 on MetaFiler. Lewis made it incisive and memorable, but folks have been warning us about this at least as far back as the 1970s ([Richard Serra](https://en.wikipedia.org/wiki/Richard_Serra) & Carlota Fay Schoolman made a short video “[Television Delivers People](https://en.wikipedia.org/wiki/Television_Delivers_People) in 1973, you can watch [a copy of the video](https://www.youtube.com/watch?v=LvZYwaQlJsg)” on YouTube).
+
+In real terms, this means that the reason why we're not paying to use Facebook, WhatsApp, Instagram, Twitter, etc. is because they are able to extract enough value from us, both in terms of advertising impressions and information about our lives and interests to make a handsome profit.
+
+In evaluating platforms to replace the "big guys" it's essential to take a look at their business model, and to remember that if you aren't paying them something to help defray the cost of running their service someone else is -- at the very best, it's like Wikipedia and someone else is paying your share, at worst you're trading information about your life that they are quite likely using against you for the right to pretend that they are providing you with a wonderful free service. Once, there might have been a middle ground where you paid for the service by watching, or ignoring, ads. But those days are long gone. Consuming media with a computer on each end of the link and a fast network in between makes it inconcievable that the ads you see aren't targeted to you.
+
+## Encryption & Metadata
+
+Encrypting data makes it much harder -- for some purposes close to impossible -- for an outsider, someone who doesn't have access to the encryption keys, to view the data. Meta claims that conversations on WhatsApp are securely encrypted. That's probably true, though it wouldn't be overly paranoid to wonder if Meta maintained a "backdoor" that would allow them, or others with a "need to know" to view the contents of communications on WhatsApp. But, what's also true, is that WhatsApp lacks a "visible means of support" -- there are no ads and no subscription fee -- but Meta maintains some rather expensive hardware and pays developers and operations staff to support the "service." So, there is likely something they are "harvesting" to defray the cost. That something is *metadata*, information about information. In the case of WhatsApp, Meta can look at who you communicate with (and who you know if you share you address book with them), how often you communicate with them, who you interact with in groups, who initiates and responds to discussions, the time of day and your location when you use WhatsApp, and probably quite a bit more -- it's quite interesting to poke around on LinkedIn and look at the job titles and training of folks at Meta.
+
+Don't let anyone reassure you that they can't see your communications and "the only" data they are collecting about you as you use of their app is metadata. Metadata is a **big** deal, it reveals a **lot** of information, often as much or more than the content of the communication.
 
 ## Musk, Twitter/X
 
@@ -27,10 +37,10 @@ If you are not paying for the service, you are the product being sold.
 
 ### Twitter/X
 
-[BlueSky](https://bsky.app) and [Mastedon]()
+[BlueSky](https://bsky.app) and [Mastedon](https://joinmastodon.org)
 
 ### WhatsApp
 
-[Signal]()
+[Signal](https://signal.org)
 
 ### Facebook
