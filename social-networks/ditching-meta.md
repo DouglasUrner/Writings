@@ -2,12 +2,32 @@
 
 7 January 2025
 
+**TL;DR:** the way we use the Internet has made some people fabulously -- obscenely -- wealthy and powerful. That wealth and power depends on us continuing to use the Internet in the ways that have built their fortunes, and which threaten to destroy western democracies and the promise of the Internet. It is time to reconsider how we use the Internet. By changing the way we use the Internet we can change the cost-benefit ratio for kowtowing to Trump, at worst we can separate ourselves from their manipulation and information hoarding, at best as they see their sway and income diminish in response to their lack of courage and principle perhaps they will reconsider. Jump to [Suggestions](#suggestions) for some possible steps to take.
+
 10° to the left of center in good times, 10° [or more] to the right of center when it affects me personally.
 -- Phil Ochs, "Love Me, I'm a Liberal"
 
+## The Big Donors
+
 If you ever doubted that Phil Ochs was right, the steady stream of wealthy suplicants making their way to (or moving in at) Mar-a-Lago should convince you.
 
-**TL;DR:** the way we use the Internet has made some people fabulously -- obscenely -- wealthy and powerful. That wealth and power depends on us continuing to use the Internet in the ways that have built their fortunes, and which threaten to destroy western democracies and the promise of the Internet. It is time to reconsider how we use the Internet. By changing the way we use the Internet we can change the cost-benefit ratio for kowtowing to Trump, at worst we can separate ourselves from their manipulation and information hoarding, at best as they see their sway and income diminish in response to their lack of courage and principle perhaps they will reconsider. Jump to [Suggestions](#suggestions) for some possible steps to take.
+### Consider this list:
+
+* Elon Musk
+* Amazon: $2M ($1M in cash and another $1M in streaming services for the election -- apparently Twitter/X isn't up to the task...)
+* Sam Altman: $1M
+* Mark Zuckerberg: $1M
+* Uber / Khosrowshahi: $1M each
+* Robinhood Markets: $2M
+* Ken Griffin (Citadel): $1M
+* Bank of America
+* Goldman Sachs
+* Brad Garlinghouse / Ripple: $5M in cryptocurrency
+* Perplexity: $1M
+
+Data from [Quartz](https://qz.com/trump-inauguration-fund-donors-amazon-openai-meta-1851724468/slides/11), dated 6 January 2025.
+
+Consider that Jeff Bezos is worth around $240,000,000,000. He's donating, through Amazon, $1,000,000. That's 0.0004 percent of his net worth, about the equivalent of a small latte to someone with a net worth of a million dollars, or a decent meal out to someone with ten million. In other words, it's nothing. Think about that.
 
 Many of us were naïve in the early days of the Internet, believing that knowledge was a universally sought good that moved the world forward, that the scientific method worked, that experts could be recognized by the usefulness of their insights (and that many were willing to share their insight and experience), and that the "arc of history" would indeed bend towards justice and understanding. So we shared what we knew and patiently explained to those who were pioneering the "art" of spreading disinformation. We were optimists.
 
