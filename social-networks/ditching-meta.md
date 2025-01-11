@@ -26,7 +26,9 @@ A good alternative to WhatsApp is [Signal Messanger](https://signal.org). Signal
 
 Signal is available on iOS and Android. Signal can also be installed on Linux, macOS, and Windows, but that requires that you first have it installed on your phone and that you use your phone to authenticate your computer.
 
-### Getting off of WhatsApp
+## Things You Can Do
+
+### Get off of WhatsApp
 
 * If you have a small community that you're communicating with it may be as simple as just letting them know that you'd like to move to a Signal or some other platform.
 * In your WhatsApp profile you can let people know where you've moved to.
@@ -49,4 +51,7 @@ If you decide to go back, don't beat yourself up.
 
 Facebook makes money by collecting information about you (and then selling it) and pushing ads to you. The less time you spend on Facebook, the less money they make. If enough of us cut back they will notice. They might even change their behavior. Ways to cut back:
 
-* **Use the [Privacy Badger](https://privacybadger.org) plugin in your browser.** If you use Chrome, Edge, Firefox, or Opera
+* **Connect with your interests off of Facebook.** Look for mailing lists or independent sites that are about your interests. In my experience the content there is often of higher quality and less "noisey" than on Facebook. If you have the tech skills offer to create or run one.
+* **Use the [Privacy Badger](https://privacybadger.org) plugin in your browser.** The Facebook Like button and other social media "widgets" allow Meta and other social media companies to track your reading habits. Privacy Badger can [replace widgets with a placeholder](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets). The placeholder prevents your reading from being tracked unless you click on the widget (for example, to like a post on Facebook). If you use Chrome, Edge, Firefox, or Opera to read Facebook you can install the Privacy Badger plugin (I think it comes pre-installed on recent versions of Firefox). A plugin for Safari is being developed. Privacy Badger also blocks "third-party" trackers on all websites.
+* **Bookmark your Facebook groups.** Groups seem to have fewer ads, and so probably generate less revenue for Meta. You can bookmark the groups and jump directly to them. This may help if you're easily tempted by what's on your home page.
+* **Let advertisers know that supporting Meta lowers your opinion of them.** One way to do this is to post something on their Facebook page. It might be interesting to see how many likes you get.
