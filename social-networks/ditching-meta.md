@@ -20,6 +20,10 @@ One of the guiding principles in my thinking about social media platforms is und
 
 Remembering the addage: *If you are not paying for it, you're not the customer, you're the product being sold.* I want to find platforms where the revenue stream is transparent and not based on monetizing information gleaned from the users.
 
+## Block Meta
+
+Even if you don't use Meta's products they are probably still tracking you and monetizing your information. This January 17th, 2025 article from the Electronic Frontier Foundation is a good guide to stopping that: [Mad at Meta? Don't Let Them Collect and Monetize Your Personal Data](https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data)
+
 ## Replace WhatsApp with [Signal Messanger](https://signal.org)
 
 A good alternative to WhatsApp is [Signal Messanger](https://signal.org). Signal has most, if not all of the functionality of WhatsApp. It's "owned" by a 501c3 non-profit in the US which does fundraising to support its operations. So there is at least a chance that the Signal foundation is honest in their claims of a commitment to private communitcation.
