@@ -1,6 +1,6 @@
-# Notes: Curtis Yarvin
+# Notes: [Curtis Yarvin](https://en.wikipedia.org/wiki/Curtis_Yarvin)/Mencius Moldbug
 
-## Urbit: Digital Feudalism
+## [Urbit](https://en.wikipedia.org/wiki/Urbit): Digital Feudalism
 
 * [Urbit][urbit]
 
